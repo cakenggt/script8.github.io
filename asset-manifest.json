@@ -1,14 +1,14 @@
 {
-  "main.css": "https://script8.github.io/static/css/main.fb10e763.chunk.css",
-  "main.js": "https://script8.github.io/static/js/main.c1a03057.chunk.js",
-  "main.js.map": "https://script8.github.io/static/js/main.c1a03057.chunk.js.map",
-  "runtime~main.js": "https://script8.github.io/static/js/runtime~main.f05a3785.js",
-  "runtime~main.js.map": "https://script8.github.io/static/js/runtime~main.f05a3785.js.map",
-  "static/js/2.8200fed4.chunk.js": "https://script8.github.io/static/js/2.8200fed4.chunk.js",
-  "static/js/2.8200fed4.chunk.js.map": "https://script8.github.io/static/js/2.8200fed4.chunk.js.map",
-  "index.html": "https://script8.github.io/index.html",
-  "precache-manifest.35b11af2e8bcaab470538115565fc90f.js": "https://script8.github.io/precache-manifest.35b11af2e8bcaab470538115565fc90f.js",
-  "service-worker.js": "https://script8.github.io/service-worker.js",
-  "static/css/main.fb10e763.chunk.css.map": "https://script8.github.io/static/css/main.fb10e763.chunk.css.map",
-  "static/media/Iframe.css": "https://script8.github.io/static/media/VT323-latin.e3552630.woff2"
+  "main.css": "https://cakenggt.github.io/script8/static/css/main.16d3fdb7.chunk.css",
+  "main.js": "https://cakenggt.github.io/script8/static/js/main.c1a03057.chunk.js",
+  "main.js.map": "https://cakenggt.github.io/script8/static/js/main.c1a03057.chunk.js.map",
+  "runtime~main.js": "https://cakenggt.github.io/script8/static/js/runtime~main.fdd4da30.js",
+  "runtime~main.js.map": "https://cakenggt.github.io/script8/static/js/runtime~main.fdd4da30.js.map",
+  "static/js/2.8200fed4.chunk.js": "https://cakenggt.github.io/script8/static/js/2.8200fed4.chunk.js",
+  "static/js/2.8200fed4.chunk.js.map": "https://cakenggt.github.io/script8/static/js/2.8200fed4.chunk.js.map",
+  "index.html": "https://cakenggt.github.io/script8/index.html",
+  "precache-manifest.fbace1e22bb6ceb972eedb54df154c07.js": "https://cakenggt.github.io/script8/precache-manifest.fbace1e22bb6ceb972eedb54df154c07.js",
+  "service-worker.js": "https://cakenggt.github.io/script8/service-worker.js",
+  "static/css/main.16d3fdb7.chunk.css.map": "https://cakenggt.github.io/script8/static/css/main.16d3fdb7.chunk.css.map",
+  "static/media/Iframe.css": "https://cakenggt.github.io/script8/static/media/VT323-latin.e3552630.woff2"
 }
